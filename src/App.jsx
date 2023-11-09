@@ -46,7 +46,7 @@ function App() {
           className="ml-28 sm:ml-80 lg:ml-64 mt-0 lg:-mt-12 absolute"
         />
 
-        <div className="relative flex flex-col items-center z-30 pt-20">
+        <div className="relative flex flex-col items-center z-30 pt-20 lg:pt-0">
           <h1 className="text-[2rem] font-bold">Our Collection</h1>
           <p className="text-[#6F757C] text-base font-semibold sm:w-[500px] md:w-[500px] text-center">
             Introducing our Coffee Collection, a selection of unique coffees
